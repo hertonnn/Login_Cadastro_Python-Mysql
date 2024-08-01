@@ -1,2 +1,1 @@
-# Login_Cadastro_Python-Mysql
-Criando um sistema de login em python com conexão ao MySQL e uma interface gráfica 
+# Sistema Login em Python, com uma interface gráfica e conexão ao banco de dados MySQL. 
